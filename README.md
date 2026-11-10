@@ -3,7 +3,9 @@
 dantes98 서버(빛찬이 죽이는 서버)용 리소스팩입니다.
 
 - **비탈** (화폐) — `heartchest:banknote`
-- **귀환기** (집으로 이동하는 귀속 아이템) — `heartchest:recall`
+- **귀환기** (집으로 이동하는 귀속 아이템) — `heartchest:recall`, 커맨드 블록 모양 2배 크기
+- **루비**, **정제석**, **루비 장비 6종** (철 장비 모양을 빨갛게 물들임)
+- **정제석 광석** — 자석석(lodestone) 블록을 광석 모양으로 바꿈
 
 파일
 - `bitjuk-pack.zip` — 서버 `server.properties`의 `resource-pack`에 넣는 파일 (Minecraft 26.3, pack format 97.1)

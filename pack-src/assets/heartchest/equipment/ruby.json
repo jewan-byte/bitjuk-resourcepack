@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:iron",
+        "dyeable": {
+          "color_when_undyed": -2611654
+        }
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:iron",
+        "dyeable": {
+          "color_when_undyed": -2611654
+        }
+      }
+    ]
+  }
+}

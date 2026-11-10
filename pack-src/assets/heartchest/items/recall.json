@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "heartchest:item/recall"
+    "model": "heartchest:item/recall_cmd"
   }
 }

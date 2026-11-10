@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "heartchest:item/recall"
+    "layer0": "heartchest:item/refining_stone"
   }
 }
