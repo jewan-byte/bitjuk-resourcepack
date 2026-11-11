@@ -1,12 +1,205 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/iron_boots",
-    "tints": [
+    "type": "minecraft:select",
+    "property": "minecraft:trim_material",
+    "cases": [
       {
-        "type": "minecraft:constant",
-        "value": -2611654
+        "when": "minecraft:quartz",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_quartz_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:iron",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_iron_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:netherite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_netherite_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:redstone",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_redstone_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:copper",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_copper_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:gold",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_gold_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:emerald",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_emerald_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:diamond",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_diamond_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:lapis",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_lapis_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:amethyst",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_amethyst_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
+      },
+      {
+        "when": "minecraft:resin",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_boots_resin_trim",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": -2611654
+            },
+            {
+              "type": "minecraft:constant",
+              "value": -1
+            }
+          ]
+        }
       }
-    ]
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_boots",
+      "tints": [
+        {
+          "type": "minecraft:constant",
+          "value": -2611654
+        }
+      ]
+    }
   }
 }
