@@ -1,0 +1,31 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "heartchest:font/haki_1.png",
+      "ascent": 27,
+      "height": 60,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "heartchest:font/haki_2.png",
+      "ascent": 27,
+      "height": 60,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "heartchest:font/haki_3.png",
+      "ascent": 27,
+      "height": 60,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}
