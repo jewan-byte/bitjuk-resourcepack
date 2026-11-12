@@ -1,0 +1,42 @@
+{
+  "textures": {
+    "t": "heartchest:item/fx/haki_bolt_1",
+    "particle": "heartchest:item/fx/haki_bolt_1"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        0,
+        8
+      ],
+      "to": [
+        12,
+        16,
+        8
+      ],
+      "shade": false,
+      "light_emission": 15,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#t"
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#t"
+        }
+      }
+    }
+  ]
+}
