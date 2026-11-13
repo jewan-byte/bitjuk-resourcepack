@@ -1,7 +1,7 @@
 {
   "texture_size": [
-    32,
-    32
+    64,
+    64
   ],
   "textures": {
     "s": "heartchest:item/inferno_blade",
@@ -1322,13 +1322,13 @@
       ],
       "translation": [
         0,
-        7.6,
+        12.8,
         0.5
       ],
       "scale": [
-        0.8,
-        0.8,
-        0.8
+        1.2,
+        1.2,
+        1.2
       ]
     },
     "thirdperson_lefthand": {
@@ -1339,13 +1339,13 @@
       ],
       "translation": [
         0,
-        7.6,
+        12.8,
         0.5
       ],
       "scale": [
-        0.8,
-        0.8,
-        0.8
+        1.2,
+        1.2,
+        1.2
       ]
     },
     "firstperson_righthand": {
@@ -1356,13 +1356,13 @@
       ],
       "translation": [
         1.13,
-        5.6,
+        9.5,
         1.13
       ],
       "scale": [
-        0.6,
-        0.6,
-        0.6
+        0.9,
+        0.9,
+        0.9
       ]
     },
     "firstperson_lefthand": {
@@ -1373,13 +1373,13 @@
       ],
       "translation": [
         1.13,
-        5.6,
+        9.5,
         1.13
       ],
       "scale": [
-        0.6,
-        0.6,
-        0.6
+        0.9,
+        0.9,
+        0.9
       ]
     },
     "head": {

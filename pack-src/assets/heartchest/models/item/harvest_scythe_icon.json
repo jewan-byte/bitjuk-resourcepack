@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "heartchest:item/harvest_scythe_icon"
+  }
+}
